@@ -4,7 +4,7 @@ autovenv.sh: auto sourcing of virtual environments
 autovenv.sh is a bash script that sets up easy to use shortcuts and 
 automagically activates and deactivates your environment depending on
 what project you are working on. This script also has functions
-that can be used to aids in customizing your PS1 prompt.
+that can be used to aid in customizing your PS1 prompt.
 
 Who's this for?
 ---------------
